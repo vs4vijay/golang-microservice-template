@@ -1,5 +1,5 @@
 # golang-template
-A template for creating golang projects
+A Template repo. for Microservice in GoLang
 
 ## Development
 
