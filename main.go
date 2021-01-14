@@ -1,7 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"log"
+
+	"app/pkg/app"
+)
 
 func main() {
-	fmt.Println("golang-template")
+	log.Println("golang-microservice-template")
+
+	app1 := app.NewApp()
+	app1.Start()
 }

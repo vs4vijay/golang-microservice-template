@@ -1,4 +1,4 @@
-PROJECT := "golang-template"
+PROJECT := "golang-microservice-template"
 PREFIX  := "/usr/local"
 
 GIT_TAG 	:= `git describe --tags --abbrev=0 --exact-match 2>/dev/null || echo "canary"`
