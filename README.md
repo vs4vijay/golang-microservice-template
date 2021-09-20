@@ -1,6 +1,7 @@
 # golang-microservice-template
 
 A Template repo. for Microservice in GoLang
+- Uses `echo` web framework
 
 ---
 
